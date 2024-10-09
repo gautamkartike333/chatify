@@ -1,5 +1,9 @@
 # chatify
-chatify is a real-time chatting application
+chatify is a real-time chatting website
+
+https://github.com/user-attachments/assets/cb70721b-f7f0-4a64-a33f-d2fcdac18d37
+
+
 # Getting Started with chatify
 <pre>
 <h3>First clone the repository</h3>
