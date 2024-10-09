@@ -24,7 +24,7 @@ jspm_packages/
 .env.development.local
 .env.test.local
 .env.production.local
-.env.*
+
 
 # Coverage directory used by testing tools like jest
 coverage/
