@@ -3,7 +3,7 @@ chatify is a real-time chatting application
 # Getting Started with chatify
 <pre>
 <h3>First clone the repository</h3>
-<h6>then install the required dependencies, you can take reference from below code or package.json file</h6>
+<h5>then install the required dependencies, you can take reference from below code or package.json file</h5>
 `cd frontend` 
 ```npm install axios dom react react-dom react-icons react-router-dom react-toastify router zustand @eslint/js 
 @types/react @types/react-dom @vitejs/plugin-react autoprefixer daisyui eslint eslint-plugin-react 
