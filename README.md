@@ -11,5 +11,9 @@ eslint-plugin-react-hooks eslint-plugin-react-refresh globals postcss tailwindcs
 `cd backend`
 ```npm install bcryptjs cookie-parser cors dotenv express jsonwebtoken mongoose nodemon react-dom react-icons 
 react-router-dom react-toastify socket.io socket.io-client zustand```
-<h3>Then start the application</h3>
+<h4>Start the application</h4>
+`cd frontend`
+`npm run dev`
+`cd backend`
+`npm run dev`
 <h4>Don't forgot to make .env file according to .env.example</h4></pre>
