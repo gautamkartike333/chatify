@@ -43,9 +43,11 @@ coverage/
 *.tsbuildinfo
 *.ts
 *.tsx
-*.js
-*.jsx
 *.map
+# Ignore all JS files except for those in the backend folder
+!backend/**/*.js
+!backend/**/*.jsx
+
 
 # React Native specific
 *.expo/
