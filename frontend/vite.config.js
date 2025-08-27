@@ -18,7 +18,8 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:3000',  // Make sure this is correct
+        // target: 'http://localhost:3000',  // Make sure this is correct
+        target: 'https://chatify-xc0o.onrender.com',  // Make sure this is correct
         secure: false,
         // changeOrigin: true,
       },
